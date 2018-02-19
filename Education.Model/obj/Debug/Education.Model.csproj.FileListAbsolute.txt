@@ -1,0 +1,10 @@
+D:\Users\h_alizadeh\Desktop\RepositoryTutorial\Education\Education.Model\bin\Debug\Education.Model.dll
+D:\Users\h_alizadeh\Desktop\RepositoryTutorial\Education\Education.Model\bin\Debug\Education.Model.pdb
+D:\Users\h_alizadeh\Desktop\RepositoryTutorial\Education\Education.Model\obj\Debug\Education.Model.dll
+D:\Users\h_alizadeh\Desktop\RepositoryTutorial\Education\Education.Model\obj\Debug\Education.Model.pdb
+C:\Users\Hossein\Desktop\Education\Education.Model\bin\Debug\Education.Model.dll
+C:\Users\Hossein\Desktop\Education\Education.Model\bin\Debug\Education.Model.pdb
+C:\Users\Hossein\Desktop\Education\Education.Model\obj\Debug\Education.Model.csprojResolveAssemblyReference.cache
+C:\Users\Hossein\Desktop\Education\Education.Model\obj\Debug\Education.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\Desktop\Education\Education.Model\obj\Debug\Education.Model.dll
+C:\Users\Hossein\Desktop\Education\Education.Model\obj\Debug\Education.Model.pdb
